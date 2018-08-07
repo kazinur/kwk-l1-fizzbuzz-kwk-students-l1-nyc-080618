@@ -1,5 +1,5 @@
  
-def FizzBuzz(number)
+def fizzbuzz(number)
   if number % 15 ==0
     return "FizzBuzz"
     elsif number % 3==0
@@ -9,4 +9,4 @@ def FizzBuzz(number)
     end
 end
 
-FizzBuzz(15) 
+fizzbuzz(15) 
