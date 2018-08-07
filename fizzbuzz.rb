@@ -1,4 +1,4 @@
-number= 15 
+ 
 def number
   if number % 15 ==0
     return "FizzBuzz"
